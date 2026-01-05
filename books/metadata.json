@@ -1,0 +1,12 @@
+[
+  {
+    "id": "book-1767632411213",
+    "title": "Bean",
+    "description": "Nothing",
+    "author": "James",
+    "year": "2026",
+    "coverPath": "books/covers/bean-book-1767632411213.jpg",
+    "pdfPath": "books/pdfs/bean-book-1767632411213.pdf",
+    "createdAt": "2026-01-05T17:00:17.489Z"
+  }
+]
