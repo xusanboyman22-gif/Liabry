@@ -8,5 +8,15 @@
     "coverPath": "books/covers/bean-book-1767632411213.jpg",
     "pdfPath": "books/pdfs/bean-book-1767632411213.pdf",
     "createdAt": "2026-01-05T17:00:17.489Z"
+  },
+  {
+    "id": "book-1767633090587",
+    "title": "Ku",
+    "description": "Something that i do not know",
+    "author": "Noone",
+    "year": "2026",
+    "coverPath": "books/covers/ku-book-1767633090587.jpg",
+    "pdfPath": "books/pdfs/ku-book-1767633090587.pdf",
+    "createdAt": "2026-01-05T17:11:37.761Z"
   }
 ]
